@@ -1,4 +1,4 @@
-Welcome to the Falsezero website repo.
+Welcome to the Falsezero website repository
 
 ## Description
 
