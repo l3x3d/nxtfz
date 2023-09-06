@@ -29,7 +29,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-zinc-900 dark:text-gray-600 text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Developing unique solutions to complex <span className="bg-clip-text text-transparent bg-gradient-to-r from-lime-500 to-lime-500">challenges</span></h1>
+            <h1 className="text-zinc-900 dark:text-gray-600 text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Developing unique solutions to complex <span className="bg-clip-text text-transparent bg-gradient-to-r from-lime-500 to-lime-200">challenges</span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">we believe in the power of creativity and technology to transform the world of ecommerce. We thrive on pushing boundaries, questioning norms, and developing unique solutions to complex challenges. Our ethos is grounded in a commitment to exceptional quality & innovation.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
