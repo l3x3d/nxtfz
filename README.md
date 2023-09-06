@@ -2,7 +2,7 @@ Welcome to the Falsezero website repo.
 
 ## Description
 
-False Zero is a creative tech company specializing in custom ecommerce solutions. Our mission is to revolutionize ecommerce through cutting-edge, custom solutions that empower businesses to thrive in the ever-evolving digital landscape. 
+Falsezero is a creative tech company specializing in custom ecommerce solutions. Our mission is to revolutionize ecommerce through cutting-edge, custom solutions that empower businesses to thrive in the ever-evolving digital landscape. 
 
 ## Features
 
