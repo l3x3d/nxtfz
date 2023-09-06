@@ -23,7 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} font-inter antialiased bg-gradient-to-r from-lime-200 to-teal-900 text-gray-900 tracking-tight`}>
+      <body className={`${inter.variable} font-inter antialiased bg-white dark:bg-stone-900 text-gray-900 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden supports-[overflow:clip]:overflow-clip">
           <Header />
           {children}
